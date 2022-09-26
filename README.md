@@ -9,8 +9,8 @@ My coding projects are built from the ground up by planning and designing the pr
 <br>
 <br>
 <hr>
-<a href="www.google.com">
-  <img style="width: 150px; height: 39px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
+<a href="https://www.google.com">
+  <img style="width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
 </a>
 <br>
 *Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work!*
