@@ -34,4 +34,4 @@ My coding projects are built from the ground up by planning and designing the pr
 
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical&langs_count=5)](https://www.github.com/mrmoussie)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://www.github.com/mrmoussie)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmoussie&theme=radical)](https://www.github.com/mrmoussie)
