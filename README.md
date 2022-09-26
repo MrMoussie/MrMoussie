@@ -1,15 +1,14 @@
 [![Header](https://github.com/MrMoussie/MrMoussie/blob/915a86423e9612ebaf91ff458d026152149af52c/LinkedIn%20banner.jpg "Header")](https://martinheinz.dev/)
 
 # 👨🏽‍💻 MrMoussie 
+<a href="https://www.google.com">
+  <img align="center" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
+</a>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**.
 <br>
 I am a Software Engineer and an ambitious Technical Computer Science student who will never stop learning.
 My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously.
-<br>
-<a href="https://www.google.com">
-  <img align="center" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
-</a>
 <br>
 <br>
 *Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work!*
