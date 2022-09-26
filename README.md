@@ -1,10 +1,6 @@
 # 👨🏽‍💻 MrMoussie 
 
-<span className="blog-title-emoji" style=" animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;">👋</span> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**
 <br>
 I am a Software Engineer and an ambitious Technical Computer Science student who will never stop learning.
 My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously.
