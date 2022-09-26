@@ -35,6 +35,4 @@ My coding projects are built from the ground up by planning and designing the pr
 #
 
 ### Stats
-<div style="pointer-events: none;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)]
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical)]
