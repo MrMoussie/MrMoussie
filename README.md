@@ -5,7 +5,8 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**.
 <br>
 I am a Software Engineer and an ambitious Technical Computer Science student who will never stop learning.
-My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously. Contact me on LinkedIn:
+My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact me on LinkedIn:
 <a href="https://www.google.com">
   <img align="right" style="display: block; width: 90px; height: 24px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
 </a>
