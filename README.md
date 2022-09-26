@@ -37,5 +37,5 @@ My coding projects are built from the ground up by planning and designing the pr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical&langs_count=3&hide_border=true" />
 </a>
 <a href="https://www.github.com/mrmoussie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmoussie&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmoussie&show_icons=true&theme=radical&hide_border=true&line_height=27&count_private=true" />
 </a>
