@@ -32,7 +32,7 @@ Contact me on LinkedIn:
 </a>
 <br>
 #
-*Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work!*
+*Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work.*
 
 ---
 
