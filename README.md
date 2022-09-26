@@ -28,7 +28,6 @@ My coding projects are built from the ground up by planning and designing the pr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 Contact me on LinkedIn:
 <a href="https://www.linkedin.com/in/maouhebbessi/">
   <img align="right" alt=" My LinkedIn" style="display: block; user-select: none; width: 90px; height: 24px;"  src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
