@@ -1,6 +1,7 @@
 [![Header](https://github.com/MrMoussie/MrMoussie/blob/915a86423e9612ebaf91ff458d026152149af52c/LinkedIn%20banner.jpg "Header")](https://martinheinz.dev/)
 
-# 👨🏽‍💻 MrMoussie <a href="https://www.google.com">
+# 👨🏽‍💻 MrMoussie 
+# <a href="https://www.google.com">
   <img align="center" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
 </a>
 
