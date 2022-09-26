@@ -33,7 +33,7 @@ Contact me on LinkedIn:
 <br>
 #
 *Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work.*
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ---
 
 <!-- LANGUAGES AND TOOLS -->
