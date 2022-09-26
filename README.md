@@ -9,7 +9,7 @@ My coding projects are built from the ground up by planning and designing the pr
 <br>
 <br>
 <a href="https://www.google.com">
-  <img align="center" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
+  <img align="right" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
 </a>
 <br>
 *Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work!*
