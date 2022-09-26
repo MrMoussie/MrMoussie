@@ -1,11 +1,15 @@
+<!-- HEADER -->
 [![Header](https://github.com/MrMoussie/MrMoussie/blob/915a86423e9612ebaf91ff458d026152149af52c/LinkedIn%20banner.jpg "Header")](https://martinheinz.dev/)
 
+<!-- ABOUT ME -->
 # 👨🏽‍💻 MrMoussie 
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**.
 <br>
 I am a Software Engineer and an ambitious Technical Computer Science student who will never stop learning.
 My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously. 
+<br>
+<!-- INDENTATION -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,11 +32,11 @@ Contact me on LinkedIn:
 </a>
 <br>
 #
-<br>
 *Notice: most of my repositories are private due to Non-Disclosure Agreements or due to containment of Academic work!*
 
 ---
 
+<!-- LANGUAGES AND TOOLS -->
 ### 🛠 Languages and Tools
 
 <img align="left" title="Python" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -55,6 +59,7 @@ Contact me on LinkedIn:
 
 #
 
+<!-- STATS -->
 ### 📊 Stats
 <a href="https://www.github.com/mrmoussie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical&langs_count=3&hide_border=true" />
