@@ -8,7 +8,7 @@ I am a Software Engineer and an ambitious Technical Computer Science student who
 My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing it continuously.
 <br>
 <a href="https://www.google.com">
-  <img align="right" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
+  <img align="center" style="display: block; width: 120px; height: 31px;" src="https://github.com/MrMoussie/MrMoussie/blob/2571eeef411c3fa9b08400d661a7ded1317e3797/Linkedin-logo-png.png" />
 </a>
 <br>
 <br>
