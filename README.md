@@ -1,5 +1,5 @@
 <!-- HEADER -->
-[![Header](https://github.com/MrMoussie/MrMoussie/blob/915a86423e9612ebaf91ff458d026152149af52c/LinkedIn%20banner.jpg "Header")]
+![Header](https://github.com/MrMoussie/MrMoussie/blob/915a86423e9612ebaf91ff458d026152149af52c/LinkedIn%20banner.jpg "Header")
 
 <!-- ABOUT ME -->
 # 👨🏽‍💻 MrMoussie 
