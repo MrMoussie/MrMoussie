@@ -33,12 +33,5 @@ My coding projects are built from the ground up by planning and designing the pr
 #
 
 ### 📊 Stats
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical&langs_count=5&show_icons=true&hide_border=true" />
-</a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmoussie&show_icons=true&theme=radical&hide_border=true&layout=compact" />
-</a>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoussie&theme=radical&langs_count=5&show_icons=true&hide_border=true)](https://www.github.com/mrmoussie)
 [![MrMoussie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmoussie&show_icons=true&theme=radical&hide_border=true&layout=compact)](https://www.github.com/mrmoussie)
