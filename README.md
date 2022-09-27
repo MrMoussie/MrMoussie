@@ -54,7 +54,7 @@ Contact me on LinkedIn:
 [<img align="left" title="Git" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://www.github.com/mrmoussie)
 [<img align="left" title="MySQL" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.github.com/mrmoussie)
 [<img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />](https://www.github.com/mrmoussie)
-[<img align="left" title="Firebase" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />](https://www.github.com/mrmoussie)
+<img align="left" title="Firebase" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <br />
 
 #
