@@ -57,10 +57,7 @@ Contact me on LinkedIn:
 [<img align="left" title="Firebase" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />](https://www.github.com/mrmoussie)
 [<img align="left" title="Tailwind" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://www.github.com/mrmoussie)
 [<img align="left" title="Flutter" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />](https://www.github.com/mrmoussie)
-
-<br>
-
-#
+<br />
 
 <!-- STATS -->
 ### 📊 Stats
