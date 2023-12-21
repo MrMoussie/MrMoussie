@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I am **@MrMoussie**, also known as **Maouheb Bessi**.
 <br>
-I am a Software Engineer and an ambitious Technical Computer Science student who will never stop learning.
+I am a full-stack Software Engineer who will never stop learning.
 My coding projects are built from the ground up by planning and designing the project with UML diagrams, implementing efficient and well-written code while testing continuously. 
 <br>
 <!-- INDENTATION -->
